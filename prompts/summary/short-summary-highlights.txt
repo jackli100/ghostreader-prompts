@@ -9,4 +9,4 @@ I just read a document entitled {{ document.title }} and made the following high
    {{ highlight.content }}
 {% endfor %}
 
-Based on my highlights above, provide a short summary of the document. The title of the summary should be "Short Summary Based On Highlights:".
+Based on my highlights above, provide a short summary of the document in Chinesw. The title of the summary should be "Short Summary Based On Highlights:".
